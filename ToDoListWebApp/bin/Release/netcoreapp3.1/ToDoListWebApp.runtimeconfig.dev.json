@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Emon-Laptop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Emon-Laptop\\.nuget\\packages"
+    ]
+  }
+}
